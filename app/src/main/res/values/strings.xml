@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TingzTest</string>
+    <string name="title_movie_details">Movie details</string>
+    <string name="title_movies">Movies</string>
+</resources>
